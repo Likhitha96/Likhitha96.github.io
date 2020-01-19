@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | </title>
-    <link>https://s-likhitha.github.io/tags/</link>
-      <atom:link href="https://s-likhitha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Likhitha96.github.io/tags/</link>
+      <atom:link href="https://Likhitha96.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://s-likhitha.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://Likhitha96.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>https://s-likhitha.github.io/tags/</link>
+      <link>https://Likhitha96.github.io/tags/</link>
     </image>
     
     <item>
       <title>Big data</title>
-      <link>https://s-likhitha.github.io/tags/big-data/</link>
+      <link>https://Likhitha96.github.io/tags/big-data/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://s-likhitha.github.io/tags/big-data/</guid>
+      <guid>https://Likhitha96.github.io/tags/big-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bioinformatics</title>
-      <link>https://s-likhitha.github.io/tags/bioinformatics/</link>
+      <link>https://Likhitha96.github.io/tags/bioinformatics/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://s-likhitha.github.io/tags/bioinformatics/</guid>
+      <guid>https://Likhitha96.github.io/tags/bioinformatics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer vision</title>
-      <link>https://s-likhitha.github.io/tags/computer-vision/</link>
+      <link>https://Likhitha96.github.io/tags/computer-vision/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://s-likhitha.github.io/tags/computer-vision/</guid>
+      <guid>https://Likhitha96.github.io/tags/computer-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://s-likhitha.github.io/tags/deep-learning/</link>
+      <link>https://Likhitha96.github.io/tags/deep-learning/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://s-likhitha.github.io/tags/deep-learning/</guid>
+      <guid>https://Likhitha96.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natural Language Processing</title>
-      <link>https://s-likhitha.github.io/tags/natural-language-processing/</link>
+      <link>https://Likhitha96.github.io/tags/natural-language-processing/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://s-likhitha.github.io/tags/natural-language-processing/</guid>
+      <guid>https://Likhitha96.github.io/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vision</title>
-      <link>https://s-likhitha.github.io/tags/vision/</link>
+      <link>https://Likhitha96.github.io/tags/vision/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://s-likhitha.github.io/tags/vision/</guid>
+      <guid>https://Likhitha96.github.io/tags/vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natural language</title>
-      <link>https://s-likhitha.github.io/tags/natural-language/</link>
+      <link>https://Likhitha96.github.io/tags/natural-language/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://s-likhitha.github.io/tags/natural-language/</guid>
+      <guid>https://Likhitha96.github.io/tags/natural-language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed Computing</title>
-      <link>https://s-likhitha.github.io/tags/distributed-computing/</link>
+      <link>https://Likhitha96.github.io/tags/distributed-computing/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://s-likhitha.github.io/tags/distributed-computing/</guid>
+      <guid>https://Likhitha96.github.io/tags/distributed-computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>https://s-likhitha.github.io/tags/machine-learning/</link>
+      <link>https://Likhitha96.github.io/tags/machine-learning/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://s-likhitha.github.io/tags/machine-learning/</guid>
+      <guid>https://Likhitha96.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     

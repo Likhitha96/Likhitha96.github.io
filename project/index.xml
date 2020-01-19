@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | </title>
-    <link>https://s-likhitha.github.io/project/</link>
-      <atom:link href="https://s-likhitha.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Likhitha96.github.io/project/</link>
+      <atom:link href="https://Likhitha96.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://s-likhitha.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://Likhitha96.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>https://s-likhitha.github.io/project/</link>
+      <link>https://Likhitha96.github.io/project/</link>
     </image>
     
     <item>
       <title>Visualizing Phenotype Genotype Association</title>
-      <link>https://s-likhitha.github.io/project/project3/</link>
+      <link>https://Likhitha96.github.io/project/project3/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://s-likhitha.github.io/project/project3/</guid>
+      <guid>https://Likhitha96.github.io/project/project3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vision and Language Navigation</title>
-      <link>https://s-likhitha.github.io/project/project1/</link>
+      <link>https://Likhitha96.github.io/project/project1/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://s-likhitha.github.io/project/project1/</guid>
+      <guid>https://Likhitha96.github.io/project/project1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi Object Style Transfer</title>
-      <link>https://s-likhitha.github.io/project/project5/</link>
+      <link>https://Likhitha96.github.io/project/project5/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://s-likhitha.github.io/project/project5/</guid>
+      <guid>https://Likhitha96.github.io/project/project5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Question Answering</title>
-      <link>https://s-likhitha.github.io/project/project4/</link>
+      <link>https://Likhitha96.github.io/project/project4/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://s-likhitha.github.io/project/project4/</guid>
+      <guid>https://Likhitha96.github.io/project/project4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Repair Services Application</title>
-      <link>https://s-likhitha.github.io/project/project6/</link>
+      <link>https://Likhitha96.github.io/project/project6/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://s-likhitha.github.io/project/project6/</guid>
+      <guid>https://Likhitha96.github.io/project/project6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed Stochastic Gradient Descent</title>
-      <link>https://s-likhitha.github.io/project/project2/</link>
+      <link>https://Likhitha96.github.io/project/project2/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://s-likhitha.github.io/project/project2/</guid>
+      <guid>https://Likhitha96.github.io/project/project2/</guid>
       <description></description>
     </item>
     
