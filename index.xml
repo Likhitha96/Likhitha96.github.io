@@ -25,7 +25,13 @@
       <link>https://Likhitha96.github.io/project/project3/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://Likhitha96.github.io/project/project3/</guid>
-      <description></description>
+      <description>&lt;p&gt;Identifying associations between phenotypes and genotypes could be useful in tackling diseases/disorders. In order to do this, it is important to collect data from different sources.
+The challenge remains in how to extract, maintain and integrate such huge amount of data.&lt;/p&gt;
+
+&lt;p&gt;The following project deals with providing a framework that performs Extract, Transform, Load (ETL) and accumulates data in the form of a knowlegde graph that could later be mined and visualized.&lt;/p&gt;
+
+&lt;p&gt;Techincal tools: Python, AWS Glue, Elasticsearch, Kibana, Neo4j, Cypher&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,7 +39,16 @@
       <link>https://Likhitha96.github.io/project/project1/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://Likhitha96.github.io/project/project1/</guid>
-      <description></description>
+      <description>&lt;p&gt;Mutimodal learning has gained importance with the plethora of data being available through different modes.
+One such problem in this field is Vision and Language Navigation.
+In this project, we developed a framework in which an agent navigates through a path from a given starting point by following the natural language instructions provided in an indoor house setting.
+Each subsequent point location in the path was perceived by the agent as a 360° image of what a human eye sees by standing on that location.&lt;/p&gt;
+
+&lt;p&gt;In order to solve this problem, we leveraged both the natural language instructions and the images at each location to output navigation directions at each location and hence finally reaching the intended destination.
+The framework makes use of dynamic memory networks and reinforcement learning.&lt;/p&gt;
+
+&lt;p&gt;Technical tools: Pytorch&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -41,15 +56,25 @@
       <link>https://Likhitha96.github.io/project/project5/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       <guid>https://Likhitha96.github.io/project/project5/</guid>
-      <description></description>
+      <description>&lt;p&gt;Style transfer is a technique of applying the style of another image on a base image called as the content image in our project. The main focus in our project was on doing style transfer for indoor house objects.
+Given a content image of an indoor setting containing an object like a sofa and style image of another sofa design that we want, the goal was to apply the style to the content image without changing the other objects or background.&lt;/p&gt;
+
+&lt;p&gt;We have explored different techniques like segmentation, GANs to develop this framework&lt;/p&gt;
+
+&lt;p&gt;Technical tools: Python, Tensorflow&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Visual Question Answering</title>
+      <title>Improving Clinical Decision Making through VQA</title>
       <link>https://Likhitha96.github.io/project/project4/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://Likhitha96.github.io/project/project4/</guid>
-      <description></description>
+      <description>&lt;p&gt;Visual question answering(VQA) involves building a system that takes an image and a question as input and generates the answer as an output.
+We have worked on VQA-Med dataset in this project.&lt;/p&gt;
+
+&lt;p&gt;TECHNICAL TOOLS: Tensorflow&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -57,7 +82,12 @@
       <link>https://Likhitha96.github.io/project/project6/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://Likhitha96.github.io/project/project6/</guid>
-      <description></description>
+      <description>&lt;p&gt;A lot of electronic consumer goods we buy are prone to repairs. While we have dedicated service centers and customer care, sometimes we would want to look into other repair and maintenance stores especially due to price, proximity or unavalability in the case of imported goods&lt;/p&gt;
+
+&lt;p&gt;This application has been designed with a motivation to create a better experience of repairs and services for electronic goods. This application is not just an aggregator but a one stop platform for both customers and repair shops to communicate with each other.&lt;/p&gt;
+
+&lt;p&gt;TECHNICAL TOOLS: Django, Angular, Mysql&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -65,7 +95,16 @@
       <link>https://Likhitha96.github.io/project/project2/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://Likhitha96.github.io/project/project2/</guid>
-      <description></description>
+      <description>&lt;p&gt;Gradient descent is an optimization algorithm used to find the minimum of a function.  By iterative moving in the direction of the steepest descent, we arrive at a minimum of the cost function.
+Gradient descent is used in a lot of machine  learning techniques to update model parameters, be it the coefficient in linear regression or the weights in neural networks.
+While stochastic gradient descent calculates gradient for seeing each data point and updates the parameters each time, parallelizing SGD is an approach to leverage the effectiveness of stochastic gradient descent but also reduction in time.&lt;br /&gt;
+It also satisfies the requirement of huge computational power in a distributed fashion and reduce load on a single machine.&lt;/p&gt;
+
+&lt;p&gt;The motivation behind this project is to explore the current distributed stochastic gradient descent algorithms and compare their performance between different datasets.&lt;br /&gt;
+It intends to examine the sensitivity of different datasets to different algorithms.&lt;/p&gt;
+
+&lt;p&gt;Techincal tools: Python, Apache Spark&lt;/p&gt;
+</description>
     </item>
     
   </channel>

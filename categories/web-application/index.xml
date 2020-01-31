@@ -17,7 +17,12 @@
       <link>https://Likhitha96.github.io/project/project6/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://Likhitha96.github.io/project/project6/</guid>
-      <description></description>
+      <description>&lt;p&gt;A lot of electronic consumer goods we buy are prone to repairs. While we have dedicated service centers and customer care, sometimes we would want to look into other repair and maintenance stores especially due to price, proximity or unavalability in the case of imported goods&lt;/p&gt;
+
+&lt;p&gt;This application has been designed with a motivation to create a better experience of repairs and services for electronic goods. This application is not just an aggregator but a one stop platform for both customers and repair shops to communicate with each other.&lt;/p&gt;
+
+&lt;p&gt;TECHNICAL TOOLS: Django, Angular, Mysql&lt;/p&gt;
+</description>
     </item>
     
   </channel>
